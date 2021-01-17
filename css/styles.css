@@ -817,9 +817,11 @@ img {
   display: inline-block;
   width: 16px;
   height: 16px;
+  margin-right: 8px;
   border: 2px solid var(--main-text-color);
   content: "";
   border-radius: 2px;
+  margin-bottom: -2px;
 }
 
 .modal-form-btn {
